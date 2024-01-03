@@ -78,6 +78,8 @@ $ man ascii
 ## HEX 
 - Hexadecimal representation is a base-16 numbering system using digits 0-9 and A-F, useful for compactly expressing binary data in a human-readable format in computing and programming contexts.
 - Hexadecimal character represents 4 bits (or half a byte).
+
+
 | Hex | Binary (bits) |
 |-----|----------|
 | 0   | 0000     |
